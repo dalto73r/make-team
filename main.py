@@ -42,4 +42,4 @@ async def group(ctx, specified_num=1):
     await ctx.channel.send(msg)
 
 """botの接続と起動"""
-bot.run(token)
+bot.run(NzMyMDEzNDg1ODY0NTE3NjUy.Xwuarw.d8-Lv5u86lzE-4hE6ubgxK4nXzE)
